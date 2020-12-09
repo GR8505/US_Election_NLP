@@ -6,6 +6,6 @@
 
 ## Executive Overview
 -------------------------------------------------------------------------------------
-Is social media an effective tool in predicting election outcomes? This is indeed a thought-provoking
+Is Twitter an effective tool in predicting election outcomes? This is indeed a thought-provoking
 question which can . While
 the 2020 US Presidential Election is well behind us Based on the results, I am unable to definitely decipher 
