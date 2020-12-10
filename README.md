@@ -8,6 +8,9 @@
 -------------------------------------------------------------------------------------
 
 
+https://app.powerbi.com/groups/me/reports/6cb7ce27-d1d7-4a87-9bbc-d93ed5962dc7?ctid=26a3e96a-449c-4586-88e2-f15b7d132cd5 
+![]()
+![]()
 
 ## Resources
 -------------------------------------------------------------------------------------
@@ -54,7 +57,4 @@
 * Used the NLTK library to perform Emotion Analysis
   - Please refer to jupyter notebook for further details on how this was executed https://github.com/GR8505/US_Election_NLP/blob/main/Emotion_Test.ipynb
 
-
-## Data Visualizations
----------------------------------------------------------------------------------------
 
