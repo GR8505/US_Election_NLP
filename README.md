@@ -52,4 +52,9 @@
   - Sentiment and Subjectivity scores were obtained for each tweet
   - Each tweet was ranked as Positive, Negative or Neutral Sentiment based on Sentiment scores
 * Used the NLTK library to perform Emotion Analysis
-  - Please refer to jupyter notebook for further details on how this was executed 
+  - Please refer to jupyter notebook for further details on how this was executed https://github.com/GR8505/US_Election_NLP/blob/main/Emotion_Test.ipynb
+
+
+## Data Visualizations
+---------------------------------------------------------------------------------------
+
