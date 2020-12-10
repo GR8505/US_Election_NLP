@@ -6,6 +6,28 @@
 
 ## Executive Overview
 -------------------------------------------------------------------------------------
-Is Twitter an effective tool in predicting election outcomes? This is indeed a thought-provoking
-question which can . While
-the 2020 US Presidential Election is well behind us Based on the results, I am unable to definitely decipher 
+
+
+
+## Resources
+-------------------------------------------------------------------------------------
+* Twint
+* Python
+* MongoDB
+* Power BI
+
+
+## Data Acquisition
+-------------------------------------------------------------------------------------
+* Scraped Twitter using Twint via Anaconda Environment
+* Used the first and last names of each US Presidential candidate as the key search words
+  Eg. twint -s "Joe Biden" --since "2020-10-15 17:00:00" --until "2020-10-16 17:00:00" --lang en -o biden3_2020.csv --csv
+      twint -s "Donald Trump" --since "2020-10-15 17:00:00" --until "2020-10-16 17:00:00" --lang en -o trump3_2020.csv --csv
+* Scraped data on the day following each of the three mandatory Presidential debates for consistency
+* Scraped for tweets in the English language
+
+
+## Data Storage
+-------------------------------------------------------------------------------------
+* Datasets were stored in MongoDB database
+* Created a MongoDB connection using Python to call on each dataset
