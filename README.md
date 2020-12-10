@@ -42,3 +42,5 @@
   - retweets_count
   - replies_count
 * Cleaned tweets using Regular Expressions (Regex)
+* Created tweet_length feature (which measures the number of words in each tweet)
+
