@@ -31,7 +31,7 @@
 -------------------------------------------------------------------------------------
 * Datasets were stored in MongoDB database
 * Created a MongoDB connection using Python to call on each dataset
-  See the following link to see how this was executed https://github.com/GR8505/US_Election_NLP/blob/main/Emotion_Test.ipynb
+  See the following link to see how this was executed https://github.com/GR8505/US_Election_NLP/blob/main/NLP.ipynb
   
 
 ## Data Preprocessing
@@ -43,4 +43,9 @@
   - replies_count
 * Cleaned tweets using Regular Expressions (Regex)
 * Created tweet_length feature (which measures the number of words in each tweet)
+  See the following link to see how this was executed https://github.com/GR8505/US_Election_NLP/blob/main/NLP.ipynb
+  
+
+## Machine Learning - Natural Language Processing (NLP)
+--------------------------------------------------------------------------------------
 
