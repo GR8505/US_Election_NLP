@@ -6,9 +6,31 @@
 
 ## Executive Overview
 -------------------------------------------------------------------------------------
-https://app.powerbi.com/reportEmbed?reportId=6cb7ce27-d1d7-4a87-9bbc-d93ed5962dc7&autoAuth=true&ctid=26a3e96a-449c-4586-88e2-f15b7d132cd5&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QtYS1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9
+
+Based on the results, I am unable to concretely prove that Twitter is a good proxy in determining US Election outcomes.
+Looking at the data for the 2008, 2012, 2016 and 2020 elections, all winners had a higher **Average Sentiment Score** than
+their opponents.  The closest was in 2012, in which Barack Obama had an average score of 0.08 compared to Mitt Romney's 0.075.
+
+In the **Sentiment Analysis** I looked at the percentage of tweets that were positive, negative and neutral for each candidate.
+In each case, the eventual winner recorded a higher percentage of positive tweets except for Barack Obama against Mitt Romney 
+in the 2012 election campaign.  Interestingly enough, all winning candidates registered a lower percentage of tweets with 
+negative sentiment.
+
+The results of the **Emotional Analysis** is inconclusive to say the least.  In 2008, the top two emotions for Obama were **happy**
+and **sad** in that order.  However, that order flipped in 2012 with sad being the highest expressed emotion.  In fact, tweets 
+about the Republican representative, Romney, had more __'happy'__ words than sad, but he did not prevail as the winner that year.
+In 2016, **sad**, **happy** and **fearful** were the three top emotions expressed for both Hillary Clinton and Donald J. Trump. 
+For the recently concluded 2020 elections, **happy** was the top emotion for Trump while **sad** was the number one emotion 
+expressed in tweets for Joe Biden.
+
+The **Twitter Engagement** results provided further insights but left me with more questions than answers.  In 2008, Obama had a
+higher 
 
 ![](https://github.com/GR8505/US_Election_NLP/blob/main/Images/D3.png)
+
+Please refer to the following link to view the above dashboard. 
+https://app.powerbi.com/reportEmbed?reportId=6cb7ce27-d1d7-4a87-9bbc-d93ed5962dc7&autoAuth=true&ctid=26a3e96a-449c-4586-88e2-f15b7d132cd5&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QtYS1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9
+
 
 ## Resources
 -------------------------------------------------------------------------------------
