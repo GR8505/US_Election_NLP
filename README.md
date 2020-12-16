@@ -7,7 +7,13 @@
 ## Executive Overview
 -------------------------------------------------------------------------------------
 
-Based on the results, I am unable to concretely prove that Twitter is a good proxy in determining US Election outcomes.
+Based on the results, there is no concrete evidence that justifies Twitter is a good proxy for determining US Election outcomes.
+This project focused on **Sentiment/Emotion Analysis** and **Twitter Engagement** to determine whether this form of Social Media
+is effective in predicting US election results.
+
+### Sentiment Analysis
+![](https://github.com/GR8505/US_Election_NLP/blob/main/Images/D4.png)
+
 Looking at the data for the 2008, 2012, 2016 and 2020 elections, all winners had a higher **Average Sentiment Score** than
 their opponents.  The closest was in 2012, in which Barack Obama had an average score of 0.08 compared to Mitt Romney's 0.075.
 
