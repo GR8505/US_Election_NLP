@@ -12,9 +12,17 @@ This project focused on **Sentiment/Emotion Analysis** and **Twitter Engagement*
 is effective in predicting US election results.
 
 ### Sentiment Analysis
-![](https://github.com/GR8505/US_Election_NLP/blob/main/Images/D4.png)
+![](https://github.com/GR8505/US_Election_NLP/blob/main/Images/D3.png)
+Please refer to the following link to view the above dashboard. 
+https://app.powerbi.com/reportEmbed?reportId=6cb7ce27-d1d7-4a87-9bbc-d93ed5962dc7&autoAuth=true&ctid=26a3e96a-449c-4586-88e2-f15b7d132cd5&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QtYS1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9
 
-Looking at the data for the 2008, 2012, 2016 and 2020 elections, all winners had a higher **Average Sentiment Score** than
+**Sentiment Score** => The Average Sentiment Score for each candidate in which 1 is the most __Positive Sentiment__, -1 is the most
+                       __Negative Sentiment__ and 0 is __Neutral Sentiment__
+
+**Sentiment Analysis** => Looks at the percentage of tweets for each candidate that are __Positive Sentiment__, __Negative 
+                          Sentiment__ and __Neutral Sentiment__.
+
+at the data for the 2008, 2012, 2016 and 2020 elections, all winners had a higher **Average Sentiment Score** than
 their opponents.  The closest was in 2012, in which Barack Obama had an average score of 0.08 compared to Mitt Romney's 0.075.
 
 In the **Sentiment Analysis** I looked at the percentage of tweets that were positive, negative and neutral for each candidate.
@@ -31,7 +39,7 @@ expressed in tweets for Joe Biden.
 
 The **Twitter Engagement** results provided further insights but left me with more questions than answers.  
 
-![](https://github.com/GR8505/US_Election_NLP/blob/main/Images/D3.png)
+![](https://github.com/GR8505/US_Election_NLP/blob/main/Images/D4.png)
 
 Please refer to the following link to view the above dashboard. 
 https://app.powerbi.com/reportEmbed?reportId=6cb7ce27-d1d7-4a87-9bbc-d93ed5962dc7&autoAuth=true&ctid=26a3e96a-449c-4586-88e2-f15b7d132cd5&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QtYS1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9
