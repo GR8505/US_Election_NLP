@@ -13,7 +13,7 @@ is effective in predicting US election results.
 
 ### Sentiment Analysis
 ![](https://github.com/GR8505/US_Election_NLP/blob/main/Images/D3.png)
-Please refer to the following link to view the above dashboard. 
+Dashboard Link:
 https://app.powerbi.com/reportEmbed?reportId=6cb7ce27-d1d7-4a87-9bbc-d93ed5962dc7&autoAuth=true&ctid=26a3e96a-449c-4586-88e2-f15b7d132cd5&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QtYS1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9
 
 **Sentiment Score** => The Average Sentiment Score for each candidate in which 1 is the most Positive Sentiment, -1 is the most
@@ -23,15 +23,26 @@ https://app.powerbi.com/reportEmbed?reportId=6cb7ce27-d1d7-4a87-9bbc-d93ed5962dc
                           Sentiment and Neutral Sentiment.
                           
 **Emotion Analysis** => This will analyze the list of words used in the tweets and link them to a particular emotion.  Refer to
-                        
+                        https://github.com/GR8505/US_Election_NLP/blob/main/emotions.txt for list of words and their linked emotions.
 
-at the data for the 2008, 2012, 2016 and 2020 elections, all winners had a higher **Average Sentiment Score** than
-their opponents.  The closest was in 2012, in which Barack Obama had an average score of 0.08 compared to Mitt Romney's 0.075.
+---------------------------------------------------------------------------------------
+### Twitter Engagement
+![](https://github.com/GR8505/US_Election_NLP/blob/main/Images/D4.png)
+Dashboard Link: 
+https://app.powerbi.com/reportEmbed?reportId=6cb7ce27-d1d7-4a87-9bbc-d93ed5962dc7&autoAuth=true&ctid=26a3e96a-449c-4586-88e2-f15b7d132cd5&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QtYS1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9
 
-In the **Sentiment Analysis** I looked at the percentage of tweets that were positive, negative and neutral for each candidate.
-In each case, the eventual winner recorded a higher percentage of positive tweets except for Barack Obama against Mitt Romney 
-in the 2012 election campaign.  Interestingly enough, all winning candidates registered a lower percentage of tweets with 
-negative sentiment.
+This analysis gauges whether some of the popular Twitter metrics like **Likes**, **Replies** and **Retweets** are reliable
+indicators for determining who wins the race to the White House.  The **Tweet Length** feature was created during the Transformation
+process.
+
+---------------------------------------------------------------------------------------
+### Key Insights
+
+1) All winners recorded higher **Average Sentiment** scores than their opponents
+2) All winners registered a larger percentage of positive tweets compared to their rivals, with 2012 being the only exception.
+3) Each winning candidate had a lower percentage of tweets with negative sentiment than their opponents.
+4) 
+
 
 The results of the **Emotional Analysis** is inconclusive to say the least.  In 2008, the top two emotions for Obama were **happy**
 and **sad** in that order.  However, that order flipped in 2012 with sad being the highest expressed emotion.  In fact, tweets 
@@ -42,10 +53,7 @@ expressed in tweets for Joe Biden.
 
 The **Twitter Engagement** results provided further insights but left me with more questions than answers.  
 
-![](https://github.com/GR8505/US_Election_NLP/blob/main/Images/D4.png)
 
-Please refer to the following link to view the above dashboard. 
-https://app.powerbi.com/reportEmbed?reportId=6cb7ce27-d1d7-4a87-9bbc-d93ed5962dc7&autoAuth=true&ctid=26a3e96a-449c-4586-88e2-f15b7d132cd5&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QtYS1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9
 
 
 ## Resources
