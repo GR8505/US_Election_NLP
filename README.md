@@ -93,6 +93,7 @@ process.
 * Used the TextBlob library to perform Sentiment Analysis
   - Sentiment and Subjectivity scores were obtained for each tweet
   - Each tweet was ranked as Positive, Negative or Neutral Sentiment based on Sentiment scores
+* Obtained the key words (minus stop word) to obtain word cloud https://github.com/GR8505/US_Election_NLP/blob/main/Cleaned_Tweets.ipynb
 * Used the NLTK library to perform Emotion Analysis
   - Please refer to jupyter notebook for further details on how this was executed https://github.com/GR8505/US_Election_NLP/blob/main/Emotion_Test.ipynb
 
@@ -107,9 +108,9 @@ process.
 
 ## References
 --------------------------------------------------------------------------------------
-_Twint - https://github.com/twintproject/twint_
-_Sentiment/Emotion Analysis - Attreya Bhatt - https://github.com/attreyabhatt/Sentiment-Analysis_
-_https://stackabuse.com/python-for-nlp-sentiment-analysis-with-scikit-learn/_
-_https://stackabuse.com/python-for-nlp-parts-of-speech-tagging-and-named-entity-recognition/_
+*_Twint - https://github.com/twintproject/twint_
+*_Sentiment/Emotion Analysis - Attreya Bhatt - https://github.com/attreyabhatt/Sentiment-Analysis_
+*_https://stackabuse.com/python-for-nlp-sentiment-analysis-with-scikit-learn/_
+*_https://stackabuse.com/python-for-nlp-parts-of-speech-tagging-and-named-entity-recognition/_
 
 -----------------------------------------------------------------------------------------
