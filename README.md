@@ -31,7 +31,7 @@ https://app.powerbi.com/reportEmbed?reportId=6cb7ce27-d1d7-4a87-9bbc-d93ed5962dc
 Dashboard Link: 
 https://app.powerbi.com/reportEmbed?reportId=6cb7ce27-d1d7-4a87-9bbc-d93ed5962dc7&autoAuth=true&ctid=26a3e96a-449c-4586-88e2-f15b7d132cd5&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QtYS1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9
 
-This analysis gauges whether some of the popular Twitter metrics like **Likes**, **Replies** and **Retweets** are reliable
+This analysis gauges whether some of the popular Twitter metrics such as, **Likes**, **Replies** and **Retweets** are reliable
 indicators for determining who wins the race to the White House.  The **Tweet Length** feature was created during the Transformation
 process.
 
