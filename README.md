@@ -23,8 +23,7 @@ In 2016, **sad**, **happy** and **fearful** were the three top emotions expresse
 For the recently concluded 2020 elections, **happy** was the top emotion for Trump while **sad** was the number one emotion 
 expressed in tweets for Joe Biden.
 
-The **Twitter Engagement** results provided further insights but left me with more questions than answers.  In 2008, Obama had a
-higher 
+The **Twitter Engagement** results provided further insights but left me with more questions than answers.  
 
 ![](https://github.com/GR8505/US_Election_NLP/blob/main/Images/D3.png)
 
