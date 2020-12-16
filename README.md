@@ -41,23 +41,18 @@ process.
 1) All winners recorded higher **Average Sentiment** scores than their opponents
 2) All winners registered a larger percentage of positive tweets compared to their rivals, with 2012 being the only exception.
 3) Each winning candidate had a lower percentage of tweets with negative sentiment than their opponents.
-4) 
+4) **Emotional Analysis** showed no clear patterns.
+5) **Twitter Engagement** results was inconclusive:
+   - In 2008 and 2016, the losers recorded higher Average Likes scores, however, in 2012 and 2020 the winners had higher Average 
+   Likes scores.
+   - In all years, the winners registered higher Average Replies scores.
+   - Average Retweets scores were higher for all winners, except in 2016.
+   - Average Tweet Length was higher for the winners in 2016 and 2020 but not in the other two years.
 
-
-The results of the **Emotional Analysis** is inconclusive to say the least.  In 2008, the top two emotions for Obama were **happy**
-and **sad** in that order.  However, that order flipped in 2012 with sad being the highest expressed emotion.  In fact, tweets 
-about the Republican representative, Romney, had more __'happy'__ words than sad, but he did not prevail as the winner that year.
-In 2016, **sad**, **happy** and **fearful** were the three top emotions expressed for both Hillary Clinton and Donald J. Trump. 
-For the recently concluded 2020 elections, **happy** was the top emotion for Trump while **sad** was the number one emotion 
-expressed in tweets for Joe Biden.
-
-The **Twitter Engagement** results provided further insights but left me with more questions than answers.  
-
-
-
+---------------------------------------------------------------------------------------
 
 ## Resources
--------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
 * Twint
 * Python
 * MongoDB
@@ -102,3 +97,19 @@ The **Twitter Engagement** results provided further insights but left me with mo
   - Please refer to jupyter notebook for further details on how this was executed https://github.com/GR8505/US_Election_NLP/blob/main/Emotion_Test.ipynb
 
 
+## Limitations
+--------------------------------------------------------------------------------------
+* NLP is not 100% accurate in measuring sentiment, as it is unable to read sarcasm or wittiness.
+* The location of the tweets were not revealed, so we have no idea if American citizens made these comments.
+* Twitter came out in 2006, so there was a dearth of Twitter data in 2008 and 2012.  Back then, it was not the social
+  media monster it is today.
+
+
+## References
+--------------------------------------------------------------------------------------
+_Twint - https://github.com/twintproject/twint_
+_Sentiment/Emotion Analysis - Attreya Bhatt - https://github.com/attreyabhatt/Sentiment-Analysis_
+_https://stackabuse.com/python-for-nlp-sentiment-analysis-with-scikit-learn/_
+_https://stackabuse.com/python-for-nlp-parts-of-speech-tagging-and-named-entity-recognition/_
+
+-----------------------------------------------------------------------------------------
