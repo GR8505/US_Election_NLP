@@ -1,6 +1,6 @@
 # Twitter and US Election Results
 -------------------------------------------------------------------------------------
-### A study in Natural Language Processing (NLP)
+### A study using Natural Language Processing (NLP)
 
 ![](https://github.com/GR8505/US_Election_NLP/blob/main/Images/fo_us_elex_dashboard_main.jpg)
 
@@ -16,11 +16,14 @@ is effective in predicting US election results.
 Please refer to the following link to view the above dashboard. 
 https://app.powerbi.com/reportEmbed?reportId=6cb7ce27-d1d7-4a87-9bbc-d93ed5962dc7&autoAuth=true&ctid=26a3e96a-449c-4586-88e2-f15b7d132cd5&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QtYS1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9
 
-**Sentiment Score** => The Average Sentiment Score for each candidate in which 1 is the most __Positive Sentiment__, -1 is the most
-                       __Negative Sentiment__ and 0 is __Neutral Sentiment__
+**Sentiment Score** => The Average Sentiment Score for each candidate in which 1 is the most Positive Sentiment, -1 is the most
+                       Negative Sentiment and 0 is Neutral Sentiment.
 
-**Sentiment Analysis** => Looks at the percentage of tweets for each candidate that are __Positive Sentiment__, __Negative 
-                          Sentiment__ and __Neutral Sentiment__.
+**Sentiment Analysis** => Looks at the percentage of tweets for each candidate that are Positive Sentiment, Negative 
+                          Sentiment and Neutral Sentiment.
+                          
+**Emotion Analysis** => This will analyze the list of words used in the tweets and link them to a particular emotion.  Refer to
+                        
 
 at the data for the 2008, 2012, 2016 and 2020 elections, all winners had a higher **Average Sentiment Score** than
 their opponents.  The closest was in 2012, in which Barack Obama had an average score of 0.08 compared to Mitt Romney's 0.075.
