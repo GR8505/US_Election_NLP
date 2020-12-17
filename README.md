@@ -76,9 +76,9 @@ process.
 ## Data Storage
 -------------------------------------------------------------------------------------
 * Datasets were stored in MongoDB database
-* Created a MongoDB connection using Python to call on each dataset. 
-  See the following [jupyter notebook](https://github.com/GR8505/US_Election_NLP/blob/main/NLP.ipynb) to see how I
-  successfully executed this
+* Created a MongoDB connection using Python to call on each dataset.  
+  See the following [jupyter notebook](https://github.com/GR8505/US_Election_NLP/blob/main/NLP.ipynb) for
+  more details.
   
 
 ## Data Preprocessing
