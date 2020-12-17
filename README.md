@@ -15,12 +15,13 @@ is effective in predicting US election results.
 
 ### Sentiment Analysis
 <a href="https://app.powerbi.com/reportEmbed?reportId=6cb7ce27-d1d7-4a87-9bbc-d93ed5962dc7&autoAuth=true&ctid=26a3e96a-449c-4586-88e2-f15b7d132cd5&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QtYS1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9"> <img src="https://github.com/GR8505/US_Election_NLP/blob/main/Images/D3.png" alt="drawing" width="1200"/> </a>
-
-[![Watch the video](https://github.com/GR8505/US_Election_NLP/blob/main/Images/D3.png)](https://youtu.be/Vopsl1aOs30)
-https://youtu.be/jtQU7YTS5jg
-
 For powerBI users, click the above image to view dashboard.
 
+----------------------------------------------------------------------------------------
+[![Watch the video](https://github.com/GR8505/US_Election_NLP/blob/main/Images/D3.png)](https://youtu.be/jtQU7YTS5jg)
+Click above image to view video of Dashboard.
+
+-----------------------------------------------------------------------------------------
 
 **Sentiment Score** => The Average Sentiment Score for each candidate in which 1 is the most Positive Sentiment, -1 is the most
                        Negative Sentiment and 0 is Neutral Sentiment.
@@ -34,9 +35,6 @@ For powerBI users, click the above image to view dashboard.
 
 ---------------------------------------------------------------------------------------
 ### Twitter Engagement
-![](https://github.com/GR8505/US_Election_NLP/blob/main/Images/D4.png)
-Dashboard [Link](https://app.powerbi.com/reportEmbed?reportId=6cb7ce27-d1d7-4a87-9bbc-d93ed5962dc7&autoAuth=true&ctid=26a3e96a-449c-4586-88e2-f15b7d132cd5&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QtYS1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9)
-
 This analysis gauges whether some of the popular Twitter metrics such as, **Likes**, **Replies** and **Retweets** are reliable
 indicators for determining who wins the race to the White House.  The **Tweet Length** feature was created during the Transformation
 process.
@@ -45,15 +43,15 @@ process.
 ### Key Insights
 
 1) All winners recorded higher **Average Sentiment** scores than their opponents
-2) All winners registered a larger percentage of positive tweets compared to their rivals, with 2012 being the only exception.
-3) Each winning candidate had a lower percentage of tweets with negative sentiment than their opponents.
-4) **Emotional Analysis** showed no clear patterns.
+2) All winners registered a larger percentage of positive tweets compared to their rivals, with 2012 being the only exception
+3) Each winning candidate had a lower percentage of tweets with negative sentiment than their opponents
+4) **Emotional Analysis** showed no clear patterns
 5) **Twitter Engagement** results was inconclusive:
    - In 2008 and 2016, the losers recorded higher Average Likes scores, however, in 2012 and 2020 the winners had higher Average 
-     Likes scores.
-   - In all years, the winners registered higher Average Replies scores.
-   - Average Retweets scores were higher for all winners, except in 2016.
-   - Average Tweet Length was higher for the winners in 2016 and 2020 but not in the other two years.
+     Likes scores
+   - In all years, the winners registered higher Average Replies scores
+   - Average Retweets scores were higher for all winners, except in 2016
+   - Average Tweet Length was higher for the winners in 2016 and 2020 but not in the other two years
 
 ---------------------------------------------------------------------------------------
 
@@ -79,7 +77,8 @@ process.
 -------------------------------------------------------------------------------------
 * Datasets were stored in MongoDB database
 * Created a MongoDB connection using Python to call on each dataset
-  See the following [jupyter notebook](https://github.com/GR8505/US_Election_NLP/blob/main/NLP.ipynb) to see how this was executed 
+  See the following [jupyter notebook](https://github.com/GR8505/US_Election_NLP/blob/main/NLP.ipynb) to see how I
+  successfully executed this
   
 
 ## Data Preprocessing
@@ -90,8 +89,8 @@ process.
   - retweets_count
   - replies_count
 * Cleaned tweets using Regular Expressions (Regex)
-* Created tweet_length feature (which measures the number of words in each tweet)
-  See the following link to see how this was executed https://github.com/GR8505/US_Election_NLP/blob/main/NLP.ipynb
+* Created tweet_length feature (which measures the number of words in each tweet) in the following 
+  [jupyter notebook](https://github.com/GR8505/US_Election_NLP/blob/main/NLP.ipynb) 
   
 
 ## Machine Learning - Natural Language Processing (NLP)
