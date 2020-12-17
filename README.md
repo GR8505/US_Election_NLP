@@ -99,7 +99,7 @@ process.
   - Sentiment and Subjectivity scores were obtained for each tweet
   - Each tweet was ranked as Positive, Negative or Neutral Sentiment based on Sentiment scores
 * Obtained the [key words](https://github.com/GR8505/US_Election_NLP/blob/main/Cleaned_Tweets.ipynb) 
-  (minus stop words) to obtain word cloud 
+  (minus stop words) to construct word cloud 
   [![Watch the video](https://github.com/GR8505/US_Election_NLP/blob/main/Images/D6.png)](https://youtu.be/jtQU7YTS5jg)
   
 * Used the NLTK library to perform [Emotion Analysis](https://github.com/GR8505/US_Election_NLP/blob/main/Emotion_Test.ipynb)
