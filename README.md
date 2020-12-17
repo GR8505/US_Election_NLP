@@ -1,4 +1,5 @@
-# Twitter and US Election Results
+# Twitter and US Election Results #
+###by Dillon Hamilton, Kevin Connolly, Sebastian Lopez and Greg Bhola###
 -------------------------------------------------------------------------------------
 ### A study using Natural Language Processing (NLP)
 
