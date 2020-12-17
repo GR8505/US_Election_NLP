@@ -116,9 +116,9 @@ process.
 
 ## References
 --------------------------------------------------------------------------------------
-1)[_Twint_](https://github.com/twintproject/twint)
-2)[_Sentiment/Emotion Analysis - Attreya Bhatt_](https://github.com/attreyabhatt/Sentiment-Analysis)
-3)[_Sentiment Analysis Stackhouse_](https://stackabuse.com/python-for-nlp-sentiment-analysis-with-scikit-learn/)
-4)[_NLP and NER_](https://stackabuse.com/python-for-nlp-parts-of-speech-tagging-and-named-entity-recognition/)
+1). [_Twint_](https://github.com/twintproject/twint)
+2). [_Sentiment/Emotion Analysis - Attreya Bhatt_](https://github.com/attreyabhatt/Sentiment-Analysis)
+3). [_Sentiment Analysis Stackhouse_](https://stackabuse.com/python-for-nlp-sentiment-analysis-with-scikit-learn/)
+4). [_NLP and NER_](https://stackabuse.com/python-for-nlp-parts-of-speech-tagging-and-named-entity-recognition/)
 
 -----------------------------------------------------------------------------------------
