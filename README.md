@@ -94,7 +94,7 @@ process.
 * Used the TextBlob library to perform Sentiment Analysis
   - Sentiment and Subjectivity scores were obtained for each tweet
   - Each tweet was ranked as Positive, Negative or Neutral Sentiment based on Sentiment scores
-* Obtained the key words (minus stop word) to obtain word cloud https://github.com/GR8505/US_Election_NLP/blob/main/Cleaned_Tweets.ipynb
+* Obtained the key words (minus stop words) to obtain word cloud https://github.com/GR8505/US_Election_NLP/blob/main/Cleaned_Tweets.ipynb
   ![](https://github.com/GR8505/US_Election_NLP/blob/main/Images/D6.png)
 * Used the NLTK library to perform Emotion Analysis
   - Please refer to jupyter notebook for further details on how this was executed https://github.com/GR8505/US_Election_NLP/blob/main/Emotion_Test.ipynb
