@@ -3,7 +3,7 @@
 -------------------------------------------------------------------------------------
 ### A study using Natural Language Processing (NLP)
 
-<img src="https://github.com/GR8505/US_Election_NLP/blob/main/Images/fo_us_elex_dashboard_main.jpg" alt="drawing" width="200"/>
+<img src="https://github.com/GR8505/US_Election_NLP/blob/main/Images/fo_us_elex_dashboard_main.jpg" alt="drawing" width="600"/>
 
 
 ## Executive Overview
@@ -14,11 +14,8 @@ This project focused on **Sentiment/Emotion Analysis** and **Twitter Engagement*
 is effective in predicting US election results.
 
 ### Sentiment Analysis
-<a href="https://app.powerbi.com/reportEmbed?reportId=6cb7ce27-d1d7-4a87-9bbc-d93ed5962dc7&autoAuth=true&ctid=26a3e96a-449c-4586-88e2-f15b7d132cd5&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QtYS1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9"> <img src="https://github.com/GR8505/US_Election_NLP/blob/main/Images/D3.png" alt="drawing" width="200"/> </a>
-
-![](https://github.com/GR8505/US_Election_NLP/blob/main/Images/D3.png)
-
-Dashboard [Link](https://app.powerbi.com/reportEmbed?reportId=6cb7ce27-d1d7-4a87-9bbc-d93ed5962dc7&autoAuth=true&ctid=26a3e96a-449c-4586-88e2-f15b7d132cd5&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QtYS1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9)
+<a href="https://app.powerbi.com/reportEmbed?reportId=6cb7ce27-d1d7-4a87-9bbc-d93ed5962dc7&autoAuth=true&ctid=26a3e96a-449c-4586-88e2-f15b7d132cd5&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QtYS1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9"> <img src="https://github.com/GR8505/US_Election_NLP/blob/main/Images/D3.png" alt="drawing" width="600"/> </a>
+For powerBI users, click the above image to view dashboard.
 
 
 **Sentiment Score** => The Average Sentiment Score for each candidate in which 1 is the most Positive Sentiment, -1 is the most
