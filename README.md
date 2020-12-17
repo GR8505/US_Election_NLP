@@ -3,7 +3,8 @@
 -------------------------------------------------------------------------------------
 ### A study using Natural Language Processing (NLP)
 
-![](https://github.com/GR8505/US_Election_NLP/blob/main/Images/fo_us_elex_dashboard_main.jpg)
+<img src="https://github.com/GR8505/US_Election_NLP/blob/main/Images/fo_us_elex_dashboard_main.jpg" alt="drawing" width="200"/>
+
 
 ## Executive Overview
 -------------------------------------------------------------------------------------
@@ -14,7 +15,7 @@ is effective in predicting US election results.
 
 ### Sentiment Analysis
 ![](https://github.com/GR8505/US_Election_NLP/blob/main/Images/D3.png)
-Dashboard Link:
+Dashboard [Link](https://app.powerbi.com/reportEmbed?reportId=6cb7ce27-d1d7-4a87-9bbc-d93ed5962dc7&autoAuth=true&ctid=26a3e96a-449c-4586-88e2-f15b7d132cd5&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QtYS1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9)
 https://app.powerbi.com/reportEmbed?reportId=6cb7ce27-d1d7-4a87-9bbc-d93ed5962dc7&autoAuth=true&ctid=26a3e96a-449c-4586-88e2-f15b7d132cd5&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QtYS1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9
 
 **Sentiment Score** => The Average Sentiment Score for each candidate in which 1 is the most Positive Sentiment, -1 is the most
@@ -24,13 +25,13 @@ https://app.powerbi.com/reportEmbed?reportId=6cb7ce27-d1d7-4a87-9bbc-d93ed5962dc
                           Sentiment and Neutral Sentiment.
                           
 **Emotion Analysis** => This will analyze the list of words used in the tweets and link them to a particular emotion.  Refer to
-                        https://github.com/GR8505/US_Election_NLP/blob/main/emotions.txt for list of words and their linked emotions.
+                        [emotions.txt](https://github.com/GR8505/US_Election_NLP/blob/main/emotions.txt) for list of words and 
+                        their linked emotions.
 
 ---------------------------------------------------------------------------------------
 ### Twitter Engagement
 ![](https://github.com/GR8505/US_Election_NLP/blob/main/Images/D4.png)
-Dashboard Link: 
-https://app.powerbi.com/reportEmbed?reportId=6cb7ce27-d1d7-4a87-9bbc-d93ed5962dc7&autoAuth=true&ctid=26a3e96a-449c-4586-88e2-f15b7d132cd5&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QtYS1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9
+Dashboard [Link](https://app.powerbi.com/reportEmbed?reportId=6cb7ce27-d1d7-4a87-9bbc-d93ed5962dc7&autoAuth=true&ctid=26a3e96a-449c-4586-88e2-f15b7d132cd5&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QtYS1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9)
 
 This analysis gauges whether some of the popular Twitter metrics such as, **Likes**, **Replies** and **Retweets** are reliable
 indicators for determining who wins the race to the White House.  The **Tweet Length** feature was created during the Transformation
@@ -45,7 +46,7 @@ process.
 4) **Emotional Analysis** showed no clear patterns.
 5) **Twitter Engagement** results was inconclusive:
    - In 2008 and 2016, the losers recorded higher Average Likes scores, however, in 2012 and 2020 the winners had higher Average 
-   Likes scores.
+     Likes scores.
    - In all years, the winners registered higher Average Replies scores.
    - Average Retweets scores were higher for all winners, except in 2016.
    - Average Tweet Length was higher for the winners in 2016 and 2020 but not in the other two years.
@@ -74,7 +75,7 @@ process.
 -------------------------------------------------------------------------------------
 * Datasets were stored in MongoDB database
 * Created a MongoDB connection using Python to call on each dataset
-  See the following link to see how this was executed https://github.com/GR8505/US_Election_NLP/blob/main/NLP.ipynb
+  See the following [jupyter notebook](https://github.com/GR8505/US_Election_NLP/blob/main/NLP.ipynb) to see how this was executed 
   
 
 ## Data Preprocessing
