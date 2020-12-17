@@ -14,7 +14,8 @@ This project focused on **Sentiment/Emotion Analysis** and **Twitter Engagement*
 is effective in predicting US election results.
 
 ### Sentiment Analysis
-<a href="https://app.powerbi.com/reportEmbed?reportId=6cb7ce27-d1d7-4a87-9bbc-d93ed5962dc7&autoAuth=true&ctid=26a3e96a-449c-4586-88e2-f15b7d132cd5&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QtYS1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9"> <img src="https://github.com/GR8505/US_Election_NLP/blob/main/Images/D3.png" alt="drawing" width="600"/> </a>
+<a href="https://app.powerbi.com/reportEmbed?reportId=6cb7ce27-d1d7-4a87-9bbc-d93ed5962dc7&autoAuth=true&ctid=26a3e96a-449c-4586-88e2-f15b7d132cd5&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLWVhc3QtYS1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9"> <img src="https://github.com/GR8505/US_Election_NLP/blob/main/Images/D3.png" alt="drawing" width="1200"/> </a>
+
 For powerBI users, click the above image to view dashboard.
 
 
